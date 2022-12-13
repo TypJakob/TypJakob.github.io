@@ -71,7 +71,7 @@ body {
 
 .cell.o::before,
 .cell.o::after {
-  background-color: #067bc2;
+  background-color: #036F3E;
 }
 
 .board.x .cell:not(.x):not(.o):hover::before,
